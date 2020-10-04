@@ -14,3 +14,7 @@
 9. Linear Search
 10. Sentinel Linear Search
 11. Binary Search
+
+## 101~. Coding test examples
+101. Greedy - 잔돈 거슬러주기
+102. Greedy - __큰 수의 법칙__
